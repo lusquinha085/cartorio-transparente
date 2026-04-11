@@ -99,16 +99,58 @@ export const servicos = [
 export const atendentes = [
   {
     id: 1,
-    nome: "João Silva",
-    setor: "Escrituras",
+    nome: "Lucas Silva Dias",
+    cargo: "Escrevente Extrajudicial",
+    setor: "Escrituras, inventários, procurações, atas de constatação e degração, união Estável, certificação E-notariado, traslado, reconhecimentos e autenticações",
     ramal: "101"
   },
-  {
+   {
     id: 2,
-    nome: "Maria Souza",
-    setor: "Registro Civil",
+    nome: "Cristiano Magalhães",
+    cargo: "Escrevente Extrajudicial",
+    setor: "ITCD e ITBI",
+    ramal: "102"
+  },
+  {
+    id: 3,
+    nome: "Eder Duarte Fanaya",
+    cargo: "Tabelião Substituto",
+    setor: "Escrituras, Inventários, Testamentos, Atas de Constatação e degração, União Estável",
+    ramal: "102"
+  },
+  {
+    id: 4,
+    nome: "Brenda Rodrigues de França",
+    cargo: "Tabeliã Interina",
+    setor: "Escrituras, Inventários, Testamentos, Atas de Constatação e degração e União Estável",
+    ramal: "102"
+  },
+  {
+    id: 5,
+    nome: "Rosana Arguelho",
+    cargo: "Escrevente Extrajudicial",
+    setor: "Matrículas, Transcrições, Reconhecimentos e Autenticações",
+    ramal: "102"
+  },
+  {
+    id: 6,
+    nome: "Alzira Glória",
+    cargo: "Escrevente Extrajudicial",
+    setor: "Registro de RTD e RPJ, Atas de associações, Reconhecimentos e Autenticações",
+    ramal: "102"
+  },
+
+  {
+    id: 7,
+    nome: "João Victor",
+    cargo: "Escrevente Extrajudicial",
+    setor: "Procurações, Reconhecimentos, Autenticações, União Estável e Certificação E-notariado",
     ramal: "102"
   }
+ 
+
+
+
 ];
 
 

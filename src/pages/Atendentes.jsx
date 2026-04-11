@@ -28,7 +28,9 @@ export default function Atendentes() {
         atendentes.map((a) => (
           <Card key={a.id}>
             <h3>{a.nome}</h3>
-            <p>{a.setor}</p>
+             <h3>{a.cargo}</h3>
+             <p>{a.setor}</p>
+           
             <p>Ramal: {a.ramal}</p>
 
             <Button onClick={() => toggleFavorito(a)}>
