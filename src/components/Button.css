@@ -1,0 +1,33 @@
+.btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #388E3C;
+}
+.btn-detalhes {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 14px;
+  background-color: #2e7d32;
+  color: white;
+  border-radius: 8px;
+  font-size: 14px;
+  text-decoration: none; /* remove sublinhado */
+  transition: all 0.3s ease;
+}
+
+.btn-detalhes:hover {
+  background-color: #1b5e20;
+  transform: scale(1.05);
+}
+
+.btn-detalhes:active {
+  transform: scale(0.98);
+}
