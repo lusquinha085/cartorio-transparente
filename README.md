@@ -12,7 +12,6 @@ Plataforma desenvolvida para simplificar e democratizar o acesso a informações
 
 ## 🚀 Funcionalidades
 - [x] Guia informativo sobre serviços de cartório.
-- [x] Interface moderna e responsiva (Mobile-first).
 - [x] Listagem de documentos necessários por categoria.
 - [ ] Sistema de busca avançada (Em breve).
 
