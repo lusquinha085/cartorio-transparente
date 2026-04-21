@@ -1,5 +1,28 @@
-#cartorio-transparente
+ # 🏛️ Cartório Transparente
 
-Nesse projeto, irei desenvolver algo relacionado a cartório. Ainda não sei exatamente qual será a funcionalidade. Talvez seja uma aplicação para mostrar os serviços que oferecemos e a tabela de preços.
+Plataforma desenvolvida para simplificar e democratizar o acesso a informações sobre serviços notariais. O projeto foca em oferecer clareza sobre procedimentos como união estável, escrituras e registros.
 
-Também pretendo criar uma aba de atendentes, na qual o cliente poderá marcar como favoritos aqueles de sua preferência para o atendimento. Nessa aba, irei incluir informações como o setor e o telefone/ramal do colaborador, para facilitar o contato.
+---
+
+## 🛠️ Tecnologias
+* **React** + **Vite**
+* **TypeScript**
+* **Tailwind CSS**
+* **Lucide Icons**
+
+## 🚀 Funcionalidades
+- [x] Guia informativo sobre serviços de cartório.
+- [x] Interface moderna e responsiva (Mobile-first).
+- [x] Listagem de documentos necessários por categoria.
+- [ ] Sistema de busca avançada (Em breve).
+
+## 💻 Como rodar o projeto
+1. Clone o repositório:
+   `git clone https://github.com/lusquinha085/cartorio-transparente.git`
+2. Instale as dependências:
+   `npm install`
+3. Inicie o projeto:
+   `npm run dev`
+
+---
+Desenvolvido com foco em transparência pública.
