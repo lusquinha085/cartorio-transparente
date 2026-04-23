@@ -14,6 +14,7 @@ export default function Favoritos() {
           <div key={f.id}>
             <h3>{f.nome}</h3>
             <p>{f.setor}</p>
+            <h3>{f.ramal}</h3>
           </div>
         ))
       )}
